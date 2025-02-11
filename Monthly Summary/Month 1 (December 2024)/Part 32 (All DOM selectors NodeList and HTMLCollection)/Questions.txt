@@ -8,7 +8,7 @@
 
 5. How to select an element with className?
 
-6. How to select a farther element?
+6. How to select a further element?
 
 7. When we select some element with querySelectorAll we get some node lists, is those like array?
 
