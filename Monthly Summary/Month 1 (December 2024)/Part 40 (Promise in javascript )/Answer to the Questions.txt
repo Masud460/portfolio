@@ -38,7 +38,7 @@
 6. Here is the solution:
     
 const promiseFour = new Promise(function (resolve, reject) {
-    let error = CSSFontFeatureValuesRule;
+    let error = false;
     setTimeout(function () {
         if (!error) {
             resolve({username: 'Masud', password: '123'})

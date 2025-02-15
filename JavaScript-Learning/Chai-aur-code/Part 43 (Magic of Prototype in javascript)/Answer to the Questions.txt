@@ -94,3 +94,11 @@ The new object is returned: After the constructor function has been called, if i
 
 12. Here is the modern syntax of linking an object with another object:
     Object.setPrototypeOf(whichObjectYouWantToAddWith, whichObjectYouWantToAdd)
+
+13. Like this:
+    const myName = 'Ataullah Masud';
+    String.prototype.trueLength = function () {
+        console.log(this)
+        console.log(`The true length is: ${this.trim().length}`)
+    }
+    myName.trueLength()

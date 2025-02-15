@@ -394,7 +394,7 @@ for example:
     console.log(userOne);
     console.log(userTwo);
 
-6. It will automatically returned.
+6. It will automatically returned if you use the new keyword. and if you don't use the new keyword it will not automatically returned.
 
 7. There are four steps for the new keyword:
     1st:

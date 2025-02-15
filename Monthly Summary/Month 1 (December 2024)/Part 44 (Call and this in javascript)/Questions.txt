@@ -1,4 +1,4 @@
-1. When we call a function in another function, then what is the context of the inner function that you call from a outside function?
+1. When we call a function in another function, then what is the context of the inner function that you called from an outside function?
 
 2. what referes the Global Execution Context in node and browser?
 

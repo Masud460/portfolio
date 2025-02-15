@@ -39,6 +39,9 @@
       e.stopPropagation()
     }, false);
 
+
+    this is only work when the third parameter seted to false/eventpublic, and if it seted to true/eventcapturing then this is not works.
+
 7. Like this:
     google.addEventListener('click', function(e){
       console.log('Google clicked');

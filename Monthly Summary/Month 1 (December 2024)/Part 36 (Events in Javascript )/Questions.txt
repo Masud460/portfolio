@@ -8,10 +8,12 @@
 
 an Extra practice that we got from chai aur code, do that confidently! if you can, but our teacher will do that project soon;
 
-5. What is event Propagation? give an example to clearing the concept.
+5. What is event Propagation or Bubbling? give an example to clearing the concept.
 
 6. How to do this:
     we have an owl image inside a div and we seted addEventListener in both of them, but we want when we click on the owl image the div should not be clicked?
+
+    and if we set the third parameter true, will this work?
 
 7. Supose we have a google link, and we want when we click this link we will not go to the google website, How to do this?
 

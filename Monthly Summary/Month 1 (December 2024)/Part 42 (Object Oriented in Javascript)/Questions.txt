@@ -6,12 +6,12 @@
 
 4. What is 'Polymorphism' in JS?
 
-5. What the importence of constructor function? give an example for clearing the Concept.
+5. What is the importence of constructor function? give an example for clearing the Concept.
 
-6. What if we delete the return In the previous example? 
+6. What if we delete the return in the previous example? 
 
 7. How many step for the new/this keyword?
 
 8. What does the 'constructor' method?
 
-9. What does the 'instenceof' method?
+9. What does the 'instanceof' method?

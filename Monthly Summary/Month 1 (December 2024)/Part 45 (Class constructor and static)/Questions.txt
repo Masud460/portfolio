@@ -18,6 +18,6 @@
 
 10. Can we access the user's class's method from the teacher's class?
 
-11. How to stop a method from using it in class? for doing this, create a new class and add a method in it called create id, then create a user to test the programm.
+11. How to stop a method from using it in class? for doing this, create a new class and add a method in it called createId, then create a user to test the programm.
 
 12. Create a new class named teacher and extend it with the user class, then try to use the static method with the teacher class is it work or not.
