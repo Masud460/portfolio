@@ -7,9 +7,11 @@
 4. There are many way to solve the problem, we just discuss one way in this tutorial, here it is:
     use the 'call' method with the function invoking.
 
-5. This is very simple, just type 'this' in frist argument when invoking the outer side function in the main function.
+5. When we have many functions, and we use a function's variables in another function, that time we use the 'call' method, because if the function (which variables we are using) exicuted, then that function's variable also vanished coz the exicution context.
 
-6. Here is the whole practice:
+6. This is very simple, just type 'this' in frist argument when invoking the outer side function in the main function.
+
+7. Here is the whole practice:
 
     function setUsername(username) {
     this.username = username;

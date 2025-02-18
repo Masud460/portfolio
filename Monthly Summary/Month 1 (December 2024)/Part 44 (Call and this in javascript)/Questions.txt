@@ -6,6 +6,8 @@
 
 4. How to solve the problem, when we face this type of problem (variables vanishing from functions)?
 
-5. And there is also a problem, and that is: the outer side function is using his 'this', but that will vanish after call the function, so how to do this: the outer function uses the main function's 'this'?
+5. When we use the 'call' method?
 
-6. try the whole tutorial.
+6. And there is also a problem, and that is: the outer side function is using his 'this', but that will vanish after call the function, so how to do this: the outer function uses the main function's 'this'?
+
+7. try the whole tutorial.
