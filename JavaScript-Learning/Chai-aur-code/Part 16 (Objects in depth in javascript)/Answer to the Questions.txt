@@ -6,3 +6,6 @@
 
 4. Like this:
     [myKey]: 'Hello',
+
+5. Like this:  
+    Object.freeze(object_name)
