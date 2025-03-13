@@ -1,0 +1,16 @@
+1. In the following code we have seen an error which is  'username is not defined', but we have declared the username in the object, so why the problem and how to solve it? code:
+    const user = {
+    username: 'Masud',
+    price: 499,
+    welcome: function () {
+        return `${username}, welcome to the website`
+    }
+}
+console.log(user.welcome())
+
+2. What's the output of the following code?
+    console.log(user.welcome())
+    user.username = 'Jubaer'
+    console.log(user.welcome())
+
+    5:40

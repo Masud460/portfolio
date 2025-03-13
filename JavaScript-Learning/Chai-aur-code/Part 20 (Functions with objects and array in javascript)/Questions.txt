@@ -1,0 +1,5 @@
+1. How to get unlimited arguments in function by declaring only one parameter?
+
+2. How to pass an object in function throw parameter?
+
+3. How to pass an array in function throw parameter?
