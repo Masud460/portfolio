@@ -13,4 +13,17 @@ console.log(user.welcome())
     user.username = 'Jubaer'
     console.log(user.welcome())
 
-    5:40
+3. What prefers this keyword in literal function?
+
+4. What is the output of the following code?
+    function chai() {
+    let username = 'Masud';
+    console.log(this.username);
+}
+chai()
+
+5. What prefers this keyword in Arrow function? 
+
+6. How to return anything in arrow function without typeing the return keyword?
+
+7. There is a problem when we returning an object from arrow function without typeing the return keyword, how to solve it?
