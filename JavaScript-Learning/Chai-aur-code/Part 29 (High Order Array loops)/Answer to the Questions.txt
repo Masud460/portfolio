@@ -47,7 +47,7 @@
     console.log(programming[key]);
     }
 
-12. No. map are'nt itretable;
+12. Yes. the Map is itretable;
 
 13. Like this:
     const bike = ['bmw', 'pulser', 'r15', 'suzuki']
