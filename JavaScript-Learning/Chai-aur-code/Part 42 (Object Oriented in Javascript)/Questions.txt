@@ -14,4 +14,21 @@
 
 8. What does the 'constructor' method?
 
-9. What does the 'instenceof' method?
+9. What does the 'instanceof' method?
+
+// New implementetion 
+
+10. Why we need the constructor function?
+
+11. What called the 'new' keyword?
+
+12. What holds the 'this' keyword in node? explain the following code.
+    function User(username, loginCount, isLoggedIn) {
+        this.username = username;
+        this.loginCount = loginCount;
+        this.isLoggedIn = isLoggedIn;
+
+        return this
+    }
+
+13. What happens when we use the 'super' keyword in a class that extends with another class?

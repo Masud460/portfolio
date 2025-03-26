@@ -356,6 +356,8 @@ printEmployeeDetails(developer); // আউটপুট: কর্মচারী
 
 getDetails মেথড parent এবং child উভয় ক্লাসে আছে।
 child ক্লাসগুলোতে super.getDetails() ব্যবহার করে parent মেথডের আচরণ বাড়ানো হয়েছে।
+
+
 Polymorphism এবং এর সুবিধা:
 সাধারণ ইন্টারফেস প্রদান: বিভিন্ন অবজেক্টের জন্য একই ফাংশন ব্যবহার করা যায়।
 কোড পুনঃব্যবহারযোগ্যতা: একই মেথডের মাধ্যমে একাধিক কাজ করা সম্ভব।
@@ -394,7 +396,7 @@ for example:
     console.log(userOne);
     console.log(userTwo);
 
-6. It will automatically returned.
+6. It will automatically returned if we have written the new keyword, otherwise we need to return it manually.
 
 7. There are four steps for the new keyword:
     1st:
@@ -412,3 +414,26 @@ for example:
 9. It works like a comparision operator, Know it from internet.
     for example:
     console.log(userOne instanceof Object);
+
+
+// New implementetion
+
+10. Because of this:
+    const student = {
+    name: 'Masud',
+    id: 345,
+    class: 'Hedayatunnahu',
+    hasInMadrasha: false,
+
+    addmitionInNewClass() {
+        this.class = 'Kafia'
+    }
+}
+
+    In the above code we have a student data, and if we want to add another student data then we need to do the same thing i mean we need to create another object for another student, but it's not a good practice, coz developers don't like to repeat the code, that's why we use the constructor function.
+
+11. It called 'constructor function'.
+
+12. We know that the 'this' keyword prefers an object with some properties and values in the node, so in this code we are trying to add property (e. g. this.username) and value (e.g = username) on the object using this keyword, so the object we are filling and returning the object that we created.
+
+13. That time the 'super' keyword goes to the class that we extended our object with

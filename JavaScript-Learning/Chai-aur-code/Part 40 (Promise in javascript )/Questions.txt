@@ -19,3 +19,16 @@
 10. Consume some user data from an API, and log that in console.
 
 11. How to do the same thing without async.
+
+// Added in second term
+
+12. What is promise?
+
+13. How many state for promise?
+
+14. What means the following code?
+    async function promFiveExcute() {
+        let response = await promiseFive;
+        console.log(response)
+    }
+    promFiveExcute()
