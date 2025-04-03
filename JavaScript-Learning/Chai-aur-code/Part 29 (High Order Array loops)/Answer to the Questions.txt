@@ -25,7 +25,7 @@
 
 7. Yes. the map is loopable;
 
-8. No. the object aren't itretable;
+8. No. the object isn't itretable;
 
 9. No. the code isn't works;
 
@@ -47,7 +47,7 @@
     console.log(programming[key]);
     }
 
-12. No. map are'nt itretable;
+12. Yes. the map object is itretable;
 
 13. Like this:
     const bike = ['bmw', 'pulser', 'r15', 'suzuki']
