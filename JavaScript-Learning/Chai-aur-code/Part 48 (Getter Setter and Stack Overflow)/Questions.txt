@@ -17,3 +17,27 @@
 9. How developers could did this in old time in modern way?
 
 10. How developers could did this in old time in Object way?
+
+// New implementation
+
+11. Does the object need setter?
+
+12. When we use setter in object?
+
+13. Does the setter do anything in this following code?
+    class User {
+    constructor(username, email, password) {
+        this.username = username;
+        this._email = email;
+        this.password = password;
+    }
+
+    get email() {
+        return this._email.toUpperCase();
+    }
+    set email(value) {
+        this._email = value;
+    }
+}
+const masud = new User('Masud', 'masud@google.com', 23543);
+console.log(masud.email)

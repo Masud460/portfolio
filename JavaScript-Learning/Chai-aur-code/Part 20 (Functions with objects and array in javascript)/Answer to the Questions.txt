@@ -4,7 +4,9 @@
     }
     console.log(calculateCartPrice(2000, 6000, 3000)) // returns [ 2000, 6000, 3000 ]
 
-2. Like this:
+2. It returns the value as array.
+
+3. Like this:
     const student = {
     name: 'Masud',
     roll: '01',
@@ -18,7 +20,7 @@ function displayResult(studentData) {
 
 console.log(displayResult(student))
 
-3. Like this:
+4. Like this:
     const bookList = ['Hedayatunnahu', 'Nahumeer', 'Mizan', 'Elmussaraf'];
 
 function getFreeBookBySpin(book) {

@@ -83,3 +83,35 @@
     const masud = Object.create(User)
     console.log(masud.email);
     console.log(masud.password);
+
+// New implementation
+
+11. No, object doesn't need setter, it only need getter.
+
+12. We use setter in object when we set the value from outside of the object, like this:
+    const User = {
+        _email: 'masud@google.com',
+        _password: 'masud388',
+
+        get email() {
+            return this._email.toUpperCase()
+        },
+        get password() {
+            return this._password.toUpperCase()
+        },
+        set email(value) {
+            this._email = value;
+        },
+        set password(value) {
+            this._password = value;
+        }
+    }
+
+    console.log(User.email)
+    User.email = 'ataullah@google.com'
+    console.log(User.email)
+    console.log(User.password)
+    User.password = 'm388';
+    console.log(User.password)
+
+13. No, the setter does not do anything in this specific code because it is never called. However, it is necessary because it allows future updates to email (e.g., masud.email = 'newemail.com'). Without the setter, assigning masud.email = 'newemail.com' would create a new property instead of updating _email.

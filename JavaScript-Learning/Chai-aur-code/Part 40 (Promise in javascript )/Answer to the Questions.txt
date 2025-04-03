@@ -105,3 +105,13 @@ const promiseFour = new Promise(function (resolve, reject) {
         console.log(data);
     })
 .catch((error) => console.log(error))
+
+
+// Added in second term
+
+12. The promise object represents the eventual completion (or failure) of an asynchronous operation and its resulting value. (it's a thing that will happen in the future)
+
+13. It has three states:
+    1: Pending, 2: Fulfilled, 3: Rejected.
+
+14. It means you're sure the code has not any error.

@@ -101,3 +101,10 @@
   console.log(rawData);
     }
     randomUser()
+
+// New addition
+
+13. A promise is in the pending state immediately after it is created, before it has been either resolved or rejected. It stays in the pending state until the resolve or reject function is called inside the promise executor function. Attaching .then() or .catch() does not affect the promise's internal state.
+
+14. When we get some 'error data' as a 'callback',
+that time we use the parenthises after the 'catch' in 'try catch' , and if we not get 'error callback' that time we don't use the parentheses after the 'catch' in 'try catch'.
