@@ -1,2 +1,1 @@
-const sayHello = 'Hello World!';
-console.log(sayHello)
+console.log('hello')
