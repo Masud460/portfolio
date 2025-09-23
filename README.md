@@ -56,6 +56,13 @@ A comprehensive showcase of my Android development projects and technical expert
 - **APIs**: RESTful services, GraphQL
 - **P2P Technologies**: libp2p, DHT, WebRTC, mesh networking
 
+### Gaming & 3D Development
+- **Game Engines**: Unity, Unreal Engine, Godot
+- **3D Modeling**: Blender, Maya, 3ds Max
+- **Level Design**: Environment architecture, gameplay spaces
+- **Web Technologies**: Three.js, WebGL, Babylon.js
+- **Interactive Experiences**: VR/AR, immersive web applications
+
 ### DevOps & Tools
 - **Version Control**: Git, GitHub Actions, CI/CD
 - **Testing**: Unit testing, UI testing, integration testing
@@ -65,8 +72,8 @@ A comprehensive showcase of my Android development projects and technical expert
 ## 📊 Project Statistics
 
 - **Total Projects**: 4+
-- **Languages Used**: Kotlin, Java, Python, JavaScript, Rust
-- **Frameworks**: Android SDK, Media3, Jetpack Compose, FastAPI, libp2p, Tauri
+- **Languages Used**: Kotlin, Java, Python, JavaScript, Rust, C#, GLSL
+- **Frameworks**: Android SDK, Media3, Jetpack Compose, FastAPI, libp2p, Tauri, Unity, Unreal Engine
 - **Active Development**: 2+ years
 - **Open Source Contributions**: Multiple
 
@@ -83,6 +90,8 @@ A comprehensive showcase of my Android development projects and technical expert
 
 - **Android Media Development**: Deep expertise in Media3, ExoPlayer, streaming protocols
 - **P2P & Decentralized Systems**: DHT, libp2p, mesh networking, censorship circumvention
+- **Gaming & 3D Level Design**: Environment architecture, gameplay spaces, immersive experiences
+- **Single-Page Websites**: Professional business cards, landing pages, modern UI/UX
 - **Modern Android Architecture**: Clean Architecture, MVVM, Repository pattern
 - **Performance Optimization**: Memory management, battery optimization, network efficiency
 - **UI/UX Design**: Material Design implementation, responsive layouts
@@ -98,9 +107,10 @@ A comprehensive showcase of my Android development projects and technical expert
 
 **MONVISO Inc** ([https://monviso.us](https://monviso.us)) - US-based company specializing in:
 
-- **Web Development**: Custom websites, web applications, responsive design
-- **Android Development**: Native apps, media streaming, modern architecture
-- **P2P & Decentralized Systems**: Blockchain, DHT, mesh networking solutions
+- **Single-Page Websites**: Professional business cards, landing pages, portfolio sites
+- **Web Projects**: Custom web applications, responsive design, modern UI/UX
+- **Gaming & 3D Development**: Game development, 3D modeling, interactive experiences
+- **3D Game Level Design**: Environment design, level architecture, gameplay spaces
 - **Technical Consulting**: Architecture design, performance optimization
 - **Small Projects**: Quick implementations, prototypes, MVPs
 
