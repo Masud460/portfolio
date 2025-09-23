@@ -17,15 +17,18 @@ A comprehensive showcase of my Android development projects and technical expert
 - **Impact**: Modernized legacy radio app with cutting-edge Android architecture
 
 ### [Meshi Project](https://github.com/eosphor/meshi-project) 🍜
-**Food Delivery Application**
+**Fully Decentralized P2P Messenger**
 
-- **Technologies**: Android, Kotlin, Jetpack Compose
+- **Technologies**: Rust, libp2p, WebRTC, React Native, Tauri
 - **Key Features**: 
-  - Modern UI with Jetpack Compose
-  - Real-time order tracking
-  - Payment integration
-- **Status**: Private development
-- **Impact**: Full-stack food delivery solution
+  - DHT-based nickname registration and lookup
+  - End-to-end encrypted messaging
+  - P2P voice/video calls with WebRTC
+  - Mesh networking (WiFi Direct, BLE)
+  - Censorship circumvention (obfs4)
+  - Offline message buffering via DHT
+- **Status**: Specification and architecture phase
+- **Impact**: Revolutionary approach to decentralized communication without central servers
 
 ### [MONVISO Site](https://github.com/eosphor/Site-MONVISO) 🌐
 **Personal Website & Portfolio**
@@ -47,10 +50,11 @@ A comprehensive showcase of my Android development projects and technical expert
 - **UI/UX**: Modern Material Design, responsive layouts
 
 ### Backend Development  
-- **Languages**: Python, Java, Kotlin
+- **Languages**: Python, Java, Kotlin, Rust
 - **Frameworks**: FastAPI, Spring Boot
 - **Databases**: PostgreSQL, SQLite, Room
 - **APIs**: RESTful services, GraphQL
+- **P2P Technologies**: libp2p, DHT, WebRTC, mesh networking
 
 ### DevOps & Tools
 - **Version Control**: Git, GitHub Actions, CI/CD
@@ -61,8 +65,8 @@ A comprehensive showcase of my Android development projects and technical expert
 ## 📊 Project Statistics
 
 - **Total Projects**: 4+
-- **Languages Used**: Kotlin, Java, Python, JavaScript
-- **Frameworks**: Android SDK, Media3, Jetpack Compose, FastAPI
+- **Languages Used**: Kotlin, Java, Python, JavaScript, Rust
+- **Frameworks**: Android SDK, Media3, Jetpack Compose, FastAPI, libp2p, Tauri
 - **Active Development**: 2+ years
 - **Open Source Contributions**: Multiple
 
@@ -70,6 +74,7 @@ A comprehensive showcase of my Android development projects and technical expert
 
 - ✅ **Modernized Legacy Apps**: Transformed old Android applications with modern architecture
 - ✅ **Media Streaming Expertise**: Implemented complex audio streaming solutions
+- ✅ **P2P Architecture Design**: Designed fully decentralized messaging system with DHT
 - ✅ **Open Source Contributions**: Active contributor to Android ecosystem
 - ✅ **Production Experience**: Built and deployed production-ready applications
 - ✅ **Technical Leadership**: Led modernization of critical Android components
@@ -77,6 +82,7 @@ A comprehensive showcase of my Android development projects and technical expert
 ## 🎯 Specializations
 
 - **Android Media Development**: Deep expertise in Media3, ExoPlayer, streaming protocols
+- **P2P & Decentralized Systems**: DHT, libp2p, mesh networking, censorship circumvention
 - **Modern Android Architecture**: Clean Architecture, MVVM, Repository pattern
 - **Performance Optimization**: Memory management, battery optimization, network efficiency
 - **UI/UX Design**: Material Design implementation, responsive layouts
@@ -88,12 +94,17 @@ A comprehensive showcase of my Android development projects and technical expert
 - **Portfolio**: Available upon request
 - **Email**: Contact through LinkedIn
 
-## 🌟 What I'm Looking For
+## 🌟 Services Available
 
-- **Challenging Android Projects**: Complex media applications, performance-critical apps
-- **Open Source Collaboration**: Contributing to meaningful projects
-- **Technical Leadership**: Leading modernization initiatives
-- **Innovation**: Working with cutting-edge Android technologies
+**MONVISO Inc** ([https://monviso.us](https://monviso.us)) - US-based company specializing in:
+
+- **Web Development**: Custom websites, web applications, responsive design
+- **Android Development**: Native apps, media streaming, modern architecture
+- **P2P & Decentralized Systems**: Blockchain, DHT, mesh networking solutions
+- **Technical Consulting**: Architecture design, performance optimization
+- **Small Projects**: Quick implementations, prototypes, MVPs
+
+*Available for freelance projects and consulting opportunities.*
 
 ---
 
